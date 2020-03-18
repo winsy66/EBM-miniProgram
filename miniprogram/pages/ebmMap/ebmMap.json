@@ -1,0 +1,8 @@
+{
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "循证医疗地图",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "usingComponents": {}
+}
